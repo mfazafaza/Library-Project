@@ -3,7 +3,7 @@
 
 <h1>Library-Project</h1>
 
-<p>hello welcome to the pgri indraprasta university library, please those who are looking for books and literature to read.p>
+<p>hello welcome to the pgri indraprasta university library, please those who are looking for books and literature to read.</p>
 
 
 <h2>(home)</h2>
