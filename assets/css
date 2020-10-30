@@ -1,0 +1,7 @@
+.card-deck {
+    margin-top: 20px;
+}
+
+.card 1 {
+    border: 25px;
+}
