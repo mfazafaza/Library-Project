@@ -7,7 +7,7 @@
 
 
 <h2>🏠 (Home)</h2>
-<img src="https://user-images.githubusercontent.com/47191256/97742773-53db2280-1b17-11eb-87cb-7c014e077f1b.JPG" width="370" style="max-width:100%;border-radius: 10px;">
+<img src="https://user-images.githubusercontent.com/47191256/97742773-53db2280-1b17-11eb-87cb-7c014e077f1b.JPG" width="370" style="border-radius: 10px;">
 <img src="https://user-images.githubusercontent.com/47191256/97743937-f8aa2f80-1b18-11eb-95fb-384c5fe36e03.png" width="350">
 <p>Menampilkan Halaman Bagian Depan</p>
 
