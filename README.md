@@ -1,12 +1,12 @@
 
-<img src="https://user-images.githubusercontent.com/47191256/97743138-d06e0100-1b17-11eb-92f1-2a2397a64cb2.png" width="135" style="float : left;">
+<img src="https://user-images.githubusercontent.com/47191256/97743138-d06e0100-1b17-11eb-92f1-2a2397a64cb2.png" width="135">
 
 <h1>Library-Project</h1>
 
 <p>hello welcome to the pgri indraprasta university library, please those who are looking for books and literature to read.</p>
 
 
-<h2>(Home)</h2>
+<h2>🏠 (Home)</h2>
 <img src="https://user-images.githubusercontent.com/47191256/97742773-53db2280-1b17-11eb-87cb-7c014e077f1b.JPG" width="370">
 <img src="https://user-images.githubusercontent.com/47191256/97743937-f8aa2f80-1b18-11eb-95fb-384c5fe36e03.png" width="350">
 <p>Menampilkan Halaman Bagian Depan</p>
