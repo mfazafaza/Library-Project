@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/47191256/97743138-d06e0100-1b17-11eb-92f1-2a2397a64cb2.png" width="135">
+<img src="https://user-images.githubusercontent.com/47191256/97743138-d06e0100-1b17-11eb-92f1-2a2397a64cb2.png" width="135" style="float : left;">
 
 <h1>Library-Project</h1>
 
